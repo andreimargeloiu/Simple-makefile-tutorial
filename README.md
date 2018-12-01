@@ -1,2 +1,1 @@
-# Simple-makefile-tutorial
-Just following a makefile tutorial
+I followed the Makefile tutorial from http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
