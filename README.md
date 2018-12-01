@@ -9,5 +9,5 @@ The General process of running a C file is:
 3. Link: link all .o files into a single output file that can be executed
 
 When you write the command 'gcc' it means 'GNU C Compiler'. It has the following flags:
--o ---> output into a file: ex:  gcc -o outputInThisFileName hello.c
--c ---> only compile the files and create the object files, do NOT link them: ex: gcc -o outputCompiledFileHere -c hello.c
+* -o ---> output into a file: ex:  gcc -o outputInThisFileName hello.c
+* -c ---> only compile the files and create the object files, do NOT link them: ex: gcc -o outputCompiledFileHere -c hello.c
